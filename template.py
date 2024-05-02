@@ -12,7 +12,7 @@ list_of_files = [
     "src/pipeline/__init__.py",
     "src/pipeline/train_pipeline.py",
     "src/pipeline/eval_pipeline.py",
-    "src/utils/__init__.py"
+    "src/utils/__init__.py",
     "src/utils/utils.py",
     "src/logger/logging.py",
     "src/exception/exception.py",
