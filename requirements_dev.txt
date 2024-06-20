@@ -2,6 +2,7 @@ pandas
 scikit-learn
 numpy
 seaborn
+matplotlib==3.8
 flask
 mlflow==2.2.2
 dvc
